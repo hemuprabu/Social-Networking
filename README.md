@@ -220,6 +220,9 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 
 * Repository contains a high-quality README with description and a link to a walkthrough video.
 
+## Walkthrough Video
+Check out this video I recorded with Screencastify: https://drive.google.com/file/d/1v2zDW6nFrBHomgJRalfqkn-I47V2Ri9q/view
+
 ## Screenshots
 ![Screenshot 2024-05-13 201402](https://github.com/hemuprabu/Social-Networking/assets/108079829/1b8235b0-ac58-4df3-9654-4d789ac1a084)
 ![Screenshot 2024-05-13 201433](https://github.com/hemuprabu/Social-Networking/assets/108079829/3a614d41-8e47-4751-8ec6-6c4174ee2ca0)
